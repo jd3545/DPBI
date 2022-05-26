@@ -1,3 +1,6 @@
+# Insert Discord Webhook
+Will not work unless webhook is pasted in line 20
+
 ### Pip Installation
 pip install pandas
 pip install numpy
